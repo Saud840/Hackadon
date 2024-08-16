@@ -1,0 +1,57 @@
+body{
+    background-color: white;
+}
+.SignUp{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+button{
+    background-color: black;
+    font-size: 15px;
+    border-radius: 7px;
+    padding: 6px;
+    color: white;
+}
+
+span{
+    color: white;
+}
+h1,span{
+    display: flex;
+justify-content: center;
+margin-top: 20px;
+font-size: 20px;
+}
+.btn-primarybtn{
+    background-color: black;
+    color: white;;
+    margin-left: 45%;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+#main{
+    display: none;
+    
+}
+#email{
+    color: black
+}
+#name{
+    color:  black;
+}
+a{
+    color: black;
+}
+input{
+    border-radius: 10px;
+    padding: 5px;
+    background-color: black;
+    color: antiquewhite;
+}
+
+h1{
+    color: black
+}

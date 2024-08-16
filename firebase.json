@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "Hackadon",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
